@@ -237,7 +237,7 @@
     border-bottom: 3px dashed white;
     transform: rotate(45deg);
 }
-.brazos, .brazos::before{
+.piernas, .piernas::before{
     width: 1.3rem;
     height: 2.5rem;
     background: rgb(251,239,63);
@@ -250,7 +250,7 @@
     border-top: 3px dashed black;
     border-radius: 20px;
 }
-.brazos::before{
+.piernas::before{
     content: '';
     left: 6rem;
     top: 5.2rem;
